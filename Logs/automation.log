@@ -1,0 +1,15 @@
+19:40:43.535 [main] INFO  api.tests.UserTest - **************  User Updated  *************
+19:40:43.545 [main] INFO  api.tests.UserTest - **************  Reading Update USer  *************
+19:40:44.968 [main] INFO  api.tests.UserTest - **************  Updated User Read  *************
+19:40:44.975 [main] INFO  api.tests.UserTest - **************  Deleting User  *************
+19:40:46.404 [main] INFO  api.tests.UserTest - **************  User Deleted  *************
+22:56:22.725 [main] INFO  api.tests.UserTestUsingPropertiesFile - ******* Creating User  ***********
+22:56:25.760 [main] INFO  api.tests.UserTestUsingPropertiesFile - **************  User Created  *************
+22:56:25.767 [main] INFO  api.tests.UserTestUsingPropertiesFile - **************  Reading User  *************
+22:56:27.241 [main] INFO  api.tests.UserTestUsingPropertiesFile - **************  User Read  *************
+22:56:27.247 [main] INFO  api.tests.UserTestUsingPropertiesFile - **************  Updating User  *************
+22:56:28.757 [main] INFO  api.tests.UserTestUsingPropertiesFile - **************  User Updated  *************
+22:56:28.758 [main] INFO  api.tests.UserTestUsingPropertiesFile - **************  Reading Update USer  *************
+22:56:30.191 [main] INFO  api.tests.UserTestUsingPropertiesFile - **************  Updated User Read  *************
+22:56:30.198 [main] INFO  api.tests.UserTestUsingPropertiesFile - **************  Deleting User  *************
+22:56:31.727 [main] INFO  api.tests.UserTestUsingPropertiesFile - **************  User Deleted  *************
